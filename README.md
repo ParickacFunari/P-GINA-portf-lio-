@@ -23,10 +23,10 @@
   <main class="container">
     <section id="contato" class="active">
       <h2>Contato</h2>
-      <p>📧 Email: patrickafunari@gmail.com</p>
-      <p>📱 WhatsApp: (11) 9 1324-1005</p>
+      <p>📧 Email: patrickfunar@gmail.com</p>
+      <p>📱 WhatsApp: (11) 9 0000-0000</p>
       <p>🌐 LinkedIn: <a href="#" target="_blank">linkedin.com/in/patrickfunari</a></p>
-      <p>Github: <a href="Github">https://github.com/ParickacFunari?tab=projects</a></p>
+      <p>Github: <a href="Github">https://github.com/ParickFunari?tab=projects</a></p>
     </section>
 
     <section id="projetos">
